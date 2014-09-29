@@ -1,2 +1,4 @@
 target/
-.iml
+.idea
+Avalon.iml
+dependency-reduced-pom.xml
