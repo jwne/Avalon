@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: tc.oc:sportbukkit-api:1.7.9-R0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/tc/oc/sportbukkit-api/1.7.9-R0.1-SNAPSHOT/sportbukkit-api-1.7.9-R0.1-20140610.230922-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/tc/oc/sportbukkit-api/1.7.9-R0.1-SNAPSHOT/sportbukkit-api-1.7.9-R0.1-20140610.230922-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/tc/oc/sportbukkit-api/1.7.9-R0.1-SNAPSHOT/sportbukkit-api-1.7.9-R0.1-20140610.230922-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
